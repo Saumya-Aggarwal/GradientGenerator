@@ -1,0 +1,2 @@
+# GradientGenerator
+Generates random Gradient
